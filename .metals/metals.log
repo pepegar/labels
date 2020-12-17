@@ -1,0 +1,7 @@
+2020.12.17 13:22:52 INFO  started: Metals version 0.9.3 in workspace '/home/pepe/projects/github.com/pepegar/labels' for client coc-metals.
+2020.12.17 13:22:53 INFO  time: initialize in 0.82s
+2020.12.17 13:22:53 INFO  tracing is enabled: /home/pepe/.cache/metals/bsp.trace.json
+2020.12.17 13:23:11 INFO  started: Metals version 0.9.3 in workspace '/home/pepe/projects/github.com/pepegar/labels' for client coc-metals.
+2020.12.17 13:23:12 INFO  time: initialize in 0.8s
+2020.12.17 13:23:12 INFO  tracing is enabled: /home/pepe/.cache/metals/bsp.trace.json
+2020.12.17 13:23:12 INFO  skipping build import with status 'Dismissed'
